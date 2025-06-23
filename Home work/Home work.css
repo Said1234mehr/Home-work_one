@@ -1,0 +1,43 @@
+* {
+ margin: 0;
+}
+
+.obshi {
+ margin-top: 30px;
+ display: flex;
+ background-color: white;
+ width: 90%;
+ margin: auto;
+ justify-content: space-between;
+ align-items: center;
+ font-size: 25px;
+
+ /* flex-direction: column; */
+ h1 {
+  font-size: 50px;
+  color: blue;
+ }
+}
+
+.qism {
+ width: 90%;
+ margin: auto;
+}
+
+span {
+ font-size: 30px;
+ display: flex;
+ color: blue;
+}
+
+.f {
+ display: flex;
+ align-items: center;
+ gap: 20px;
+}
+span {
+ font-size: 35px;
+}
+h3 {
+ font-size: 19px;
+}
